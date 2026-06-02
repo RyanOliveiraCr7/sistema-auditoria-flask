@@ -146,7 +146,7 @@ GitHub:
 https://github.com/RyanOliveiraCr7
 
 LinkedIn:
-(Adicione aqui o link do seu perfil)
+(https://www.linkedin.com/in/ryan-oliveira-a2b5591a8/)
 
 ---
 
